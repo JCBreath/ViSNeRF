@@ -2,6 +2,8 @@
 
 ### [arXiv Paper](https://arxiv.org/abs/2502.16731)
 
+![block](assets/overview.jpg)
+
 ## Installation
 Clone this repository using the following command:
 ```
